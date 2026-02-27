@@ -34,7 +34,7 @@ This project demonstrates practical implementation of:
 
 ---
 ##  Demo Video Of The App
-https://www.youtube.com/watch?v=f2_3mmgP-Kw
+[![Demo Video Of The App](https://img.youtube.com/vi/f2_3mmgP-Kw/maxresdefault.jpg)](https://www.youtube.com/watch?v=f2_3mmgP-Kw)
 
 ##  Core Features
 
